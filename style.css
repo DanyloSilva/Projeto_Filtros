@@ -1,0 +1,12 @@
+.stats table tbody tr {
+    font-family: 'Roboto Condensed', 'Helvetica', 'Arial', sans-serif;
+    text-align: left;
+  }
+  td, th {
+    text-align: center;
+    vertical-align: middle;}
+
+    .h1{
+        color: 581d22;
+        font-size: x-large;
+    }
